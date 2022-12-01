@@ -1,0 +1,79 @@
+.header{
+	height:40px;
+	width:0px 100px;
+}
+.header .text1{
+	margin-left:35px;
+	font-size:30px;
+	color:gray;
+}
+.banner{
+	background-color:lightgray;
+	height:400px;
+	width:0px auto;	
+}
+h{
+	font-size:50px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	font-weight:bold;
+	padding:30px;
+}
+.banner  .text2{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	font-size:30px;
+}
+.banner2{
+	background-color:darkorange;
+	height:300px;
+	width:0px auto;
+}
+.banner3{
+	background-color:lightgray;
+	display:flex;
+	justify-content:center;	
+	height:400px;
+	width:0px auto;	
+	height:400px;
+	
+}
+.prototype{
+	background-color:white;
+	height:500px;
+	width: 250px;
+    margin-right:30px;	
+	margin-top:-320px;
+	border-radius:20px;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	flex-direction:column;
+}
+.concept{
+	background-color:white;
+	height:500px;
+	width:250px ;
+	margin-right:70px;	
+	margin-top:-440px;
+	border-radius:20px;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	flex-direction:column;
+	
+}
+.building{
+	background-color:white;
+	height:500px;
+	width:250px;
+	margin-left:70px;
+	margin-top:-220px;
+	border-radius:20px;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	flex-direction:column;
+}
